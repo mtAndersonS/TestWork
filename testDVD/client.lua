@@ -22,7 +22,6 @@ end
 addEventHandler("onClientPlayerTarget",getRootElement(),targetingActivated)
 
 function vorNameTag()
-
   if not playerTarget then return end
 local Px,Py,Pz = getCameraMatrix( )
  if isElement(playerTarget) and playerTarget ~= localPlayer then
