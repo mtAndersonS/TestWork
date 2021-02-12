@@ -2,9 +2,9 @@
 	local speed = 4
 
 	--{x,y,startX,endX,startY,endY,vectorX,vectorY}
-	dvd = {
-	{0              ,0  ,0          ,0    ,screenW/2-270  ,screenH-120,1,1,tocolor(255, 255, 255,255)},
-	{screenW/2      ,0  ,0 ,screenW/2     ,screenW-270    ,screenH-120,1,1,tocolor(255, 255, 255,255)},
+	local dvd = {
+	{0,0,0,0,screenW/2-270,screenH-120,1,1,tocolor(255, 255, 255,255)},
+	{screenW/2,0,0,screenW/2,screenW-270,screenH-120,1,1,tocolor(255, 255, 255,255)},
 	}
 	
 function renderDvd()
