@@ -1,7 +1,5 @@
 <meta>
-	<info author="Anderson" discription="blip" version="1.0" type="script"/>
-    <script src="server.lua" type="server" cache="false"/>
+	<info author="Anderson" discription="DVD" version="1.0" type="script"/>
 	<script src="client.lua" type="client" cache="false"/>
 	<file src="1.png" />
-	<file src="a1.png" />
 </meta>
