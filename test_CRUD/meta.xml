@@ -1,0 +1,15 @@
+<meta>	
+	<info author="Anderson" name="test_account" />
+	
+	<script src="client/UI.lua" type="client" cach="false" />	
+    <script src="client/client.lua" type="client"  cach="false" />
+    <script src="server/server.lua" type="server"/>	
+	
+	<file src="font/Gilroy-Black.ttf" />	
+	<file src="font/Gilroy-Bold.ttf" />	
+	<file src="font/Gilroy-Light.ttf" />	
+	<file src="font/Gilroy-Medium.ttf" />	
+	<file src="images/check.png" />
+	<oop>true</oop>
+</meta>
+
